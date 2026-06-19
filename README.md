@@ -80,7 +80,7 @@ Dashboard Refresh
 
 ```text
 .
-├── labs/
+├── Project/
 │   ├── Part1/
 │   │   ├── lab_lakehouse.ipynb
 │   │   └── lab_workspace.ipynb
